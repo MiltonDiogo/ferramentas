@@ -1,4 +1,4 @@
-# Localizador.AO
+# localizador.ao
 
 **Desenvolvido por:** Hacker Ético Milton Diogo  
 **Objetivo:** Ferramenta educacional para localizar IPs e capturar informações geográficas.
@@ -19,8 +19,8 @@
 
 3. Baixe e execute o script:
 
-curl -O https://github.com/MiltonDiogo/ferramentas/raw/main/Localizador.AO.py
-python Localizador.AO.py
+curl -O https://github.com/MiltonDiogo/ferramentas/raw/main/localizador.ao
+python localizador.ao
 
 
 
@@ -33,8 +33,8 @@ sudo apt update && sudo apt install python3 python3-pip -y
 
 2. Baixe e execute o script:
 
-wget https://github.com/MiltonDiogo/ferramentas/raw/main/Localizador.AO.py
-python3 Localizador.AO.py
+wget https://github.com/MiltonDiogo/ferramentas/raw/main/localizador.ao
+python3 localizador.ao
 
 
 
@@ -45,12 +45,12 @@ No Windows
 
 2. Baixe o script:
 
-curl -O https://github.com/MiltonDiogo/ferramentas/raw/main/Localizador.AO.py
+curl -O https://github.com/MiltonDiogo/ferramentas/raw/main/localizador.ao
 
 
 3. Execute no CMD:
 
-python Localizador.AO.py
+python localizador.ao
 
 
 
