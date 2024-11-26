@@ -1,24 +1,31 @@
-localizador.ao
 
-Desenvolvido por: Hacker Ético Milton Diogo
-Objetivo: Ferramenta educacional para localizar IPs e capturar informações geográficas.
+# Localizador.AO
 
+Ferramenta de redirecionamento de links e captura de IPs, com funcionalidades adicionais de geolocalização aproximada.  
+Desenvolvido pelo Hacker Ético **Milton Diogo**.
+
+---
+
+## **Aviso Importante**
+
+Esta é uma **versão beta** da ferramenta.  
+- O uso da ferramenta é **limitado a 4 dias** após a primeira execução.  
+- Para adquirir a versão completa, entre em contato com o fornecedor.
+
+Entre em contato com o criador:
+- **Milton Diogo**
+- **E-mail:** [mwmprogramador@gmail.com ]
+- **GitHub:** [MiltonDiogo](https://github.com/MiltonDiogo)
 
 ---
 
-Funcionalidades
-
-Localização geográfica detalhada de IPs.
-
-Captura de IPs com links gerados dinamicamente.
-
-Instalação automática de dependências.
-
-Interface temática "hacker".
-
-
+## **Funcionalidades**
+1. Captura de IPs e informações básicas.
+2. Redirecionamento de links com registro do IP.
+3. Geolocalização aproximada utilizando o serviço da IPinfo.
 
 ---
+
 
 Instruções de Instalação e Uso
 
